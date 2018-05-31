@@ -10,3 +10,5 @@ cd ably-nest-poll
 
 npm install
 
+
+Note: You need to get an API key from ably before you can access the real time system provided by ABly 
